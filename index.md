@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/Devansh93/devansh93.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-[My first project]<a href = "https://gist.github.com/Devansh93/4a1b50c81596d60dc0e8435eee4ddbd7.js">My first Project</a>
+[My first project]<a href = "https://gist.github.com/Devansh93/4a1b50c81596d60dc0e8435eee4ddbd7">My first Project</a>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
