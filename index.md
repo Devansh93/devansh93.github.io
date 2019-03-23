@@ -1,3 +1,4 @@
+<a href="https://ibb.co/xHyx47F"><img src="https://i.ibb.co/Hd05JHh/devansh.png" alt="devansh" border="0"></a>
 # Welcome to My Github Page
 
 As I advance in my learnings about data science, I will also publish the projects that gives me a chance to practically implement all of my knowledge. I recently got the chance to finish my first data science project thanks to the learnings that I have obtained from EDHEC and Coursera IBM Data Science Specialization.
