@@ -4,7 +4,7 @@
 
 # Welcome to My Github Page
 
-As I advance in my learnings about data science, I will also publish the projects that gives me a chance to practically implement all of my knowledge. I recently got the chance to finish my first data science project thanks to the learnings that I have obtained from EDHEC and Coursera IBM Data Science Specialization.
+As I advance in my learnings about data science, I will also publish the projects that give me a chance to practically implement all of my knowledge. I recently got the chance to finish my first data science project thanks to the learnings that I have obtained from EDHEC and Coursera IBM Data Science Specialization.
 
 ### Project 1: Determining the best resale value for a car (Completion Date: March 23,2019) <br/>
 <a href = "https://gist.github.com/Devansh93/07b6979b71cb92952e6ea106119f24d2"> First Phase </a> (<-- Link) Imported an open dataset from a website and performed several data wrangling/data cleansing operations to come up with a cleaned dataset. <br/><br/>
