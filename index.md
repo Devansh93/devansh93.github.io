@@ -1,5 +1,5 @@
-# Name: Devansh Naidu </br>
-### Grande Ecole Programme Student at EDHEC Business School, Lille, France </br>
+# Name: Devansh Naidu <br/>
+### Grande Ecole Programme Student at EDHEC Business School, Lille, France <br/>
 ### LinkedIn Profile: <a href = "https://www.linkedin.com/in/devanshnaidu/"> Link </a>
 
 # Welcome to My Github Page
