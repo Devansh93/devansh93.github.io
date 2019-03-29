@@ -8,7 +8,7 @@
 As I advance in my learnings about data science, I will also publish the projects that give me a chance to practically implement all of my knowledge. I recently got the chance to finish a couple of data science projects thanks to the learnings that I have obtained from EDHEC and Coursera IBM Data Science Specialization.
 
 ### Project 1: Determining the best resale value for a car (Completion Date: March 23,2019) <br/>
-<a href = "https://gist.github.com/Devansh93/fed65c26fd5eea170a853a79f989f38b"> SQL Project </a> (<-- Link) At the end of Course 5 <a href = "https://www.coursera.org/learn/sql-data-science"> Databases and SQL for Datascience </a> of IBM Data Scinece Specialization , I was able to practically implement my knowledge of SQL Queries and SQL Databases on real world dataset of Chicago city by doing this project.
+<a href = "https://gist.github.com/Devansh93/fed65c26fd5eea170a853a79f989f38b"> SQL Project </a> (<-- Link) At the end of Course 5 <a href = "https://www.coursera.org/learn/sql-data-science"> Databases and SQL for Datascience </a> of IBM Data Science Specialization , I was able to practically implement my knowledge of SQL Queries and SQL Databases on real world dataset of Chicago city by doing this project.
 
 ### Project 2: Determining the best resale value for a car (Completion Date: March 23,2019) <br/>
 <a href = "https://gist.github.com/Devansh93/07b6979b71cb92952e6ea106119f24d2"> First Phase </a> (<-- Link) Imported an open dataset from a website and performed several data wrangling/data cleansing operations to come up with a cleaned dataset. <br/><br/>
