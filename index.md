@@ -7,7 +7,7 @@
 
 As I advance in my learnings about data science, I will also publish the projects that give me a chance to practically implement all of my knowledge. I recently got the chance to finish a couple of data science projects thanks to the learnings that I have obtained from EDHEC and Coursera IBM Data Science Specialization.
 
-### Project 1: Determining the best resale value for a car (Completion Date: March 23,2019) <br/>
+### Project 1: Executing SQL Queries on 3 Chicago city Datasets uploaded on IBM DB2 Cloud Database  (Completion Date: March 3,2019) <br/>
 <a href = "https://gist.github.com/Devansh93/fed65c26fd5eea170a853a79f989f38b"> SQL Project </a> (<-- Link) At the end of Course 5 <a href = "https://www.coursera.org/learn/sql-data-science"> Databases and SQL for Datascience </a> of IBM Data Science Specialization , I was able to practically implement my knowledge of SQL Queries and SQL Databases on real world dataset of Chicago city by doing this project.
 
 ### Project 2: Determining the best resale value for a car (Completion Date: March 23,2019) <br/>
