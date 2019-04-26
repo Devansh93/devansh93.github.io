@@ -33,8 +33,8 @@ As I advance in my learnings about data science, I also publish the projects tha
 Used the dataset for Canada Immigration to create a choropleth map which showed Immigration to Canada from different countries across the world. Imported the cleaned dataset from Part 1 of this project and modified it a little to use it for ploting Choropleth Maps.
 
 The maps were not being displayed in the github gist. Therefore please find below the screenshot of the maps which were created in part 3:
-<a href = "http://i68.tinypic.com/289cwg0.png"> San Francisco 1 </a> </br>
-<a href = "http://i63.tinypic.com/r8hxqe.png"> San Francisco 2 </a> </br>
-<a href = "http://i65.tinypic.com/zyiniv.png"> Immigration to Canada from different countries </a> </br>
+<a href = "http://i68.tinypic.com/289cwg0.png"> San Francisco 1 </a> </br> (<-- Link)
+<a href = "http://i63.tinypic.com/r8hxqe.png"> San Francisco 2 </a> </br> (<-- Link)
+<a href = "http://i65.tinypic.com/zyiniv.png"> Immigration to Canada from different countries </a> </br> (<-- Link)
 
 
