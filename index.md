@@ -35,5 +35,5 @@ Used the dataset for Canada Immigration to create a choropleth map which showed 
 The maps were not being displayed in the github gist. Therefore please find below the screenshot of the maps which were created in part 3:
 [IMG]http://i68.tinypic.com/289cwg0.png[/IMG] - San Francisco 1 </br>
 [IMG]http://i63.tinypic.com/r8hxqe.png[/IMG] - San Francisco 2 </br>
-[IMG]http://i65.tinypic.com/zyiniv.png[/IMG] - San Francisco 3 </br>
+[IMG]http://i65.tinypic.com/zyiniv.png[/IMG] - Immigration to Canada from different countries </br>
 
