@@ -16,5 +16,24 @@ As I advance in my learnings about data science, I also publish the projects tha
 <a href = "https://gist.github.com/Devansh93/734efa2e52dcf2e6978dae3c4e84f5b6"> Third Phase </a> (<-- Link) After determining important predictor features in the previous phase of this project, I created different models that can be used to predict the resale value of a car. These Models were created Either by using 1 predictor variable or by using Multiple Predictor Variables. <br/><br/>
 <a href = "https://gist.github.com/Devansh93/6cfd964b386058e69b5d49e94f65b164"> Fourth Phase </a> (<-- Link) In this final Phase, I evaluated the prediction models built in the last phase by performing analysis operations on training sets and testing sets. I further tried to improve the accuracy of prediction models using cross validation, Ridge Regression, and GridsearchCV <br/><br/>
 
+### Project 3:Data visualization about Immigration from different countries to Canada (Completion Date: April 14,2019) <br/>
+<a href = "https://gist.github.com/Devansh93/fc959b6a20a198f8864d437e3cab787e"> First Part </a> (<-- Link) Imported an open dataset extracted from Official United Nations website. Performed basic data cleansing operations and created a plethora of visualizations to analyse Immigration trends from different countries to Canada. Different types of Graphs include:
+1. Line Plots
+2. Area Plots
+3. Histograms
+4. Bar Charts
+5. Pie Charts
+6. Box and Subplots, and Scatter Plots.
+7. Bubble Plots.
 
+<a href = "https://gist.github.com/Devansh93/19ad6bf3de1038270617b5eaddb5f0fa"> Second Part </a> (<-- Link) Created Waffle Charts to perform immigration analyses from Scandinavian countries to Canada. I also created a word cloud from the Canada Immigration report 2014 and then, displayed the final word cloud in the shape of Canada's Map.
+
+<a href = "https://gist.github.com/Devansh93/b3b4f14fb4fafe66dcf5383e04dc8aac"> Third Part </a> (<-- Link) By using the crime dataset available at SanFrancisco city page, I displayed the different types of crimes happening at different locations in Sanfrancisco for the year 2016.
+
+Used the dataset for Canada Immigration to create a choropleth map which showed Immigration to Canada from different countries across the world. Imported the cleaned dataset from Part 1 of this project and modified it a little to use it for ploting Choropleth Maps.
+
+The maps were not being displayed in the github gist. Therefore please find below the screenshot of the maps which were created in part 3:
+[IMG]http://i68.tinypic.com/289cwg0.png[/IMG] - San Francisco 1
+[IMG]http://i63.tinypic.com/r8hxqe.png[/IMG] - San Francisco 2
+[IMG]http://i65.tinypic.com/zyiniv.png[/IMG] - San Francisco 3
 
