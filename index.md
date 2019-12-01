@@ -1,4 +1,4 @@
-<a href="http://tinypic.com?ref=2euk6c7" target="_blank"><img src="http://i63.tinypic.com/2euk6c7.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
 # Name: Devansh Naidu <br/>
 ### Grande Ecole Programme Student at EDHEC Business School, Lille, France <br/>
 ### LinkedIn Profile: <a href = "https://www.linkedin.com/in/devanshnaidu/"> Link </a>
