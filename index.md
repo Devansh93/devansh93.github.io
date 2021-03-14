@@ -7,8 +7,8 @@
 
 As I advance in my understandings about how Data is playing a critical role in reshaping tomorrows future, please find below a set of projects I completed as part of gaining hands on experience in regards to entities such as databases, SQL, data visualization, data analysis,etc. I have utilized **Python** as my programming language for all of the below projects.
 
-### Project 1: A simple python function for cleaning tweets as the preliminary task for Sentiment Analysis - On going Master Thesis Project  (Expected completion Date: June 2021) <br/>
-<a href = "https://gist.github.com/Devansh93/b1a9b4906178ae80ae40a0db0cd448cd"> SQL Project </a> (<-- Link) At the end of Course 5 <a href = "https://www.coursera.org/learn/sql-data-science"> Databases and SQL for Datascience </a> of IBM Data Science Specialization , I was able to practically implement my knowledge of SQL Queries and SQL Databases on real world dataset of Chicago city by doing this project.
+### Project 1: A simple python function to automate cleaning of tweets as the preliminary task for Sentiment Analysis - As part of on going Master Thesis Project  (Expected completion Date: June 2021) <br/>
+The goal of this function is to implement better code reusability as part of creating and writing as much clean code as possible for the entire ML model.
 
 ### Project 2: Executing SQL Queries on 3 Chicago city Datasets by uploading them on IBM DB2 Cloud Database  (Completion Date: March 3,2019) <br/>
 <a href = "https://gist.github.com/Devansh93/b1a9b4906178ae80ae40a0db0cd448cd"> SQL Project </a> (<-- Link) At the end of Course 5 <a href = "https://www.coursera.org/learn/sql-data-science"> Databases and SQL for Datascience </a> of IBM Data Science Specialization , I was able to practically implement my knowledge of SQL Queries and SQL Databases on real world dataset of Chicago city by doing this project.
