@@ -8,7 +8,7 @@
 As I advance in my understandings about how Data is playing a critical role in reshaping tomorrows future, please find below a set of projects I completed as part of gaining hands on experience in regards to entities such as databases, SQL, data visualization, data analysis,etc. I have utilized **Python** as my programming language for all of the below projects.
 
 ### Project 1: Building a Python script to automate cleaning of tweets as the preliminary task for Sentiment Analysis - As part of on going Master Thesis Project  (Expected completion Date: June 2021) <br/>
-<a href = "https://www.linkedin.com/in/devanshnaidu/"> Script </a> (<-- Link) The goal of this **Script** is to implement better code reusability as part of creating and writing as much clean code as possible for the entire ML model.
+<a href = "https://www.linkedin.com/in/devanshnaidu/"> **Script** </a> (<-- Link) The goal of this Script is to implement better code reusability as part of creating and writing as much clean code as possible for the entire ML model.
 
 ### Started my Professional gap year internship in August 2019 at Amazon, right after completing my final exams just before summer of 2019.
 
